@@ -73,7 +73,7 @@ love the model shows the highest accuracy with 71 % and 67 % respectively.</p>
 
 <table>
   <tr>
-    <th>Statistic/th>
+    <th>Statistic</th>
     <th>Anger</th>
     <th>Fear</th>
     <th>Happy</th>
@@ -105,7 +105,7 @@ love the model shows the highest accuracy with 71 % and 67 % respectively.</p>
     <th>0.43</th>
   </tr>
   <tr>
-    <th><Support/th>
+    <th>Support</th>
     <th>110</th>
     <th>65</th>
     <th>102</th>
