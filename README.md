@@ -120,11 +120,11 @@ CNN model trained.
 
 
 <h3>Appendix</h3>
-<h2>Instructions to run the code<h2>
+<h2>Instructions to run the code</h2>
 <p>1. Extract the code folder</p>
 <p>2. Install the requirements for the code mentioned in requirement.txt file by using the
 below command
-<b>pip install -r requirements.txt<b></p>
+<b>pip install -r requirements.txt</b></p>
 <p>3. Run the jupyter notebook ‘Emotion detection in tweets using Bidirectional LSTM
 with CNN.ipynb’ file inside the ‘notebooks’ folder.</p>
 <p>4. This notebook contains all steps to do exploratory data analysis, model training and
