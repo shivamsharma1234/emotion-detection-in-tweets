@@ -44,3 +44,18 @@ While Figure 3 shows the distribution showing the word count of the tweets in th
     <img src='Screenshot from 2020-11-30 21-05-21.png' />
     <figcaption>Table 1. Table shows train dataset with label and text column.</figcaption>
 </figure>
+
+ <figure style="text-align: center;">
+    <img src='Distrubution_emotions.png' />
+    <figcaption>Figure 1. Bar graph showing the counts of the tweets with different emotions in the corpus</figcaption>
+</figure>
+
+ <figure style="text-align: center;">
+    <img src='Distrubution_of_legth_of_tweets.png' />
+    <figcaption>Figure 2. Distribution showing the length of the tweets in the corpus</figcaption>
+</figure>
+
+ <figure style="text-align: center;">
+    <img src='Distribution_of_word_count_tweets.png' />
+    <figcaption>Figure 3. Distribution showing the word count of the tweets in the corpus</figcaption>
+</figure>
