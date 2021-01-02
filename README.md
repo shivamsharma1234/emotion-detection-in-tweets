@@ -71,6 +71,7 @@ love the model shows the highest accuracy with 71 % and 67 % respectively.</p>
     <figcaption>Figure 4. Confusion matrix for the prediction results</figcaption>
 </figure>
 
+<Br>
 <table>
   <tr>
     <th>Statistic</th>
