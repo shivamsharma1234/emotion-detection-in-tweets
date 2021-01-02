@@ -114,3 +114,5 @@ love the model shows the highest accuracy with 71 % and 67 % respectively.</p>
   </tr>
   
 </table>
+Table 2. Table shows precision, recall, fscore and support value calculated for different emotions with LSTM
+CNN model trained.
