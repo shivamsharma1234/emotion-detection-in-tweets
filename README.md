@@ -59,3 +59,58 @@ While Figure 3 shows the distribution showing the word count of the tweets in th
     <img src='Distribution_of_word_count_tweets.png' />
     <figcaption>Figure 3. Distribution showing the word count of the tweets in the corpus</figcaption>
 </figure>
+
+<h3>Results</h3>
+<p>We trained the model for around 20 epochs and the model is saved as model_weights.h5 file.
+This model is then used to do prediction on the validation data set. Figure 5 shows the
+confusion matrix with prediction accuracy for each class. For tweets related to ‘anger’ and
+love the model shows the highest accuracy with 71 % and 67 % respectively.</p>
+
+ <figure style="text-align: center;">
+    <img src='Confusion_matrix.png' />
+    <figcaption>Figure 4. Confusion matrix for the prediction results</figcaption>
+</figure>
+
+<table>
+  <tr>
+    <th>Statistic/th>
+    <th>Anger</th>
+    <th>Fear</th>
+    <th>Happy</th>
+    <th>Love</th>
+    <th>Sadness</th>
+  </tr>
+  <tr>
+    <th>Precision</th>
+    <th>0.6</th>
+    <th>0.76</th>
+    <th>0.61</th>
+    <th>0.705</th>
+    <th>0.38</th>
+  </tr>
+  <tr>
+    <th>Recall</th>
+    <th>0.71</th>
+    <th>0.523</th>
+    <th>0.43</th>
+    <th>0.672</th>
+    <th>0.51</th>
+  </tr>
+  <tr>
+    <th>F-score</th>
+    <th>0.65</th>
+    <th>0.618</th>
+    <th>0.51</th>
+    <th>0.688</th>
+    <th>0.43</th>
+  </tr>
+  <tr>
+    <th><Support/th>
+    <th>110</th>
+    <th>65</th>
+    <th>102</th>
+    <th>64</th>
+    <th>99</th>
+  </tr>
+  
+</table>
