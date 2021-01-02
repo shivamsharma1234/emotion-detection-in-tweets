@@ -40,7 +40,7 @@ the dataset. Figure 2 depicts the distribution showing the length of the tweets 
 While Figure 3 shows the distribution showing the word count of the tweets in the corpus.
  </p>
   
- <figure>
-    <img src='image.jpg' alt='missing' />
-    <figcaption>Caption goes here</figcaption>
+ <figure style="text-align: center;">
+    <img src='Screenshot from 2020-11-30 21-05-21.png' />
+    <figcaption>Table 1. Table shows train dataset with label and text column.</figcaption>
 </figure>
