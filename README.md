@@ -120,7 +120,7 @@ CNN model trained.
 
 
 <h3>Appendix</h3>
-<h2>Instructions to run the code</h2>
+<h4>Instructions to run the code</h4>
 <p>1. Extract the code folder</p>
 <p>2. Install the requirements for the code mentioned in requirement.txt file by using the
 below command
